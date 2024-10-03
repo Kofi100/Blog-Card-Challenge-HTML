@@ -40,6 +40,15 @@
 .card__topImg{
     width: 100%;
 }
+
+.card__strong{
+    background-color: var(--Yellow);
+    padding:.25rem .75rem;
+
+}
+.card--borderRadius_4px{
+    border-radius: .25rem;
+}
 body{
     display: flex;
     min-height: 100vh;

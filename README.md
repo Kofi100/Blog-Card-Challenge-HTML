@@ -43,8 +43,8 @@ This is a view of the blog title when one hovers over it.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-card-challenge-using-htmlcss-nOd_7Q1Owu](https://www.frontendmentor.io/solutions/blog-card-challenge-using-htmlcss-nOd_7Q1Owu)
+- Live Site URL: [https://kofi100.github.io/Blog-Card-Challenge-HTML/](https://kofi100.github.io/Blog-Card-Challenge-HTML/)
 
 ## My process
 
@@ -58,11 +58,12 @@ This is a view of the blog title when one hovers over it.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 I revised on what I leant about BEM ,grid and flexbox in order to make this card. I also learnt on how to use Figma to design the website as close to the design as possible.
 
-I'm especially proud of how I used BEM naming convection to write the code below.
+I'm especially proud of how I used BEM naming convection to write the code below and also proud of how the
+
+website can dynamically changed without using media-queries.
 
 ```css
 .card{
